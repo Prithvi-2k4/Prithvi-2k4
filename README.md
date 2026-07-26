@@ -12,17 +12,17 @@
 
 ---
 
-### About Me
+## About Me
 
-I'm a Computer Engineering student (AI/ML Specialization, 2022–2026) at Presidency University, Bengaluru, currently on academic exchange with ISEP, France. I'm working as an AI/ML Intern at BootLabs, building applied AI products for Mahindra.
+I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bengaluru, passionate about building AI systems that solve real-world problems.
 
-My work sits at the intersection of Deep Learning, NLP, and Retrieval-Augmented Generation (RAG) on the cloud side, and TinyML / Edge-Based AI on the embedded side — I like taking models from research notebooks all the way down to microcontrollers. I'm especially interested in agentic AI systems, fine-grained visual classification, and applying ML to real-world domains like agriculture and healthcare imaging.
+My interests include Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI, with a focus on taking models from research to production.
 
-- Past Experience: Agentic AI products (LangChain, FastAPI) at BootLabs
-- Currently exploring: Retrieval-Augmented Generation and multi-agent orchestration
-- Capstone: Edge-based deep learning for fine-grained classification of indigenous Indian bovine breeds
-- Currently in France on the ISEP exchange program
-- Ask me about: CNNs for fine-grained classification, TinyML on microcontrollers, RAG pipelines
+- AI Intern at **Crompton Greaves Consumer Electricals**
+- Capstone: **Edge AI for Fine-Grained Classification of Indigenous Indian Bovine Breeds**
+- Currently exploring **Agentic AI, Multi-Agent Systems, Vision-Language Models, and TinyML**
+- Open to collaborations in **Computer Vision, RAG, and Edge AI**
+- Ask me about **Deep Learning, Computer Vision, RAG, FastAPI, LangChain, and TinyML**
 
 ---
 
