@@ -6,7 +6,9 @@
 ## About Me
 
 I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bengaluru. My interests span Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI.
+
 Outside of tech, you'll find me at the gym, on my motorcycle, exploring new places or caring for my aquarium.
+
 ---
 
 ### Tech Stack
