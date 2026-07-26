@@ -1,12 +1,12 @@
 <h1 align="center">Welcome to my Hub</h1>
-<h2 align="center">AI Intern @ Crompton Greaves • Applied AI • Computer Vision • Edge AI</h2>
+<h2 align="center">Applied AI • Computer Vision • Edge AI</h2>
 
 ---
 
 ## About Me
 
 I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bengaluru. My interests span Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI.
-
+Outside of tech, you'll find me at the gym, on my motorcycle, exploring new places or caring for my aquarium.
 ---
 
 ### Tech Stack
@@ -56,17 +56,17 @@ I'm a Computer Engineering student specializing in Artificial Intelligence & Mac
 B.Tech Capstone. An image-based CNN system that classifies Indian cattle and buffalo breeds to support sustainable agriculture (SDG 2). Tackles fine-grained visual differences between visually similar indigenous breeds, optimized for deployment on constrained hardware.
 `Python` `TensorFlow/Keras` `CNN` `OpenCV`
 
-**[Magic Wand — TinyML Gesture Recognition](https://github.com/Prithvi-2k4/magic-wand-tinyml)**
-A gesture-recognition system using IMU sensor data and a quantized neural network running entirely on a microcontroller. Demonstrates real-time inference under tight memory and power constraints, with no cloud dependency.
-`TinyML` `C/C++` `IMU Sensors` `Embedded ML`
-
 **[3D Reconstruction of Pores in the Lamina Cribrosa](https://github.com/Prithvi-2k4/lamina-cribrosa-oct)**
 A deep-learning pipeline that reconstructs 3D pore structures of the lamina cribrosa from OCT (Optical Coherence Tomography) medical images, supporting glaucoma-related research.
 `Python` `Deep Learning` `Medical Imaging` `3D Reconstruction`
 
-**[Travel Pi — Smart Travel Companion](https://github.com/Prithvi-2k4/travel-pi)**
-A Raspberry Pi-driven smart travel web application, combining an embedded backend with a lightweight web interface for on-the-go travel assistance.
-`Raspberry Pi` `Python` `HTML` `IoT`
+**[Targeted Sentiment Analysis](https://github.com/Prithvi-2k4/targeted-sentiment-analysis)**
+An NLP pipeline that performs targeted sentiment analysis by identifying sentiment towards specific entities in text using modern deep learning techniques.
+`Python` `NLP` `Deep Learning` `Sentiment Analysis`
+
+**[WorkLink – AI-Powered Freelancing Platform](https://github.com/Prithvi-2k4/worklink-fullstack-app)**
+A full-stack AI-powered freelancing platform featuring secure escrow payments, role-based authentication, and intelligent freelancer matching for the Indian market.
+`React` `Node.js` `MongoDB` `Express.js` `JWT` `AI`
 
 > More projects, including NLP and full-stack work, are pinned below and on my [repositories tab](https://github.com/Prithvi-2k4?tab=repositories).
 
