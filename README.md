@@ -1,35 +1,32 @@
-<h1 align="center">Hi, I'm Prithvi 👋</h1>
+<h1 align="center">Hi, I'm Prithvi</h1>
 <h3 align="center">AI/ML Engineer in Training | Applied Deep Learning & Edge AI | ISEP France Exchange Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/prithvi-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mprithvikrish@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-url.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-I'm a Computer Engineering student (AI/ML Specialization, 2022–2026) at Presidency University, Bengaluru, currently on academic exchange with **ISEP, France**. I'm working as an **AI/ML Intern at BootLabs**, building applied AI products for Mahindra.
+I'm a Computer Engineering student (AI/ML Specialization, 2022–2026) at Presidency University, Bengaluru, currently on academic exchange with ISEP, France. I'm working as an AI/ML Intern at BootLabs, building applied AI products for Mahindra.
 
-My work sits at the intersection of **Deep Learning, NLP, and Retrieval-Augmented Generation (RAG)** on the cloud side, and **TinyML / Edge-Based AI** on the embedded side — I like taking models from research notebooks all the way down to microcontrollers. I'm especially interested in agentic AI systems, fine-grained visual classification, and applying ML to real-world domains like agriculture and healthcare imaging.
+My work sits at the intersection of Deep Learning, NLP, and Retrieval-Augmented Generation (RAG) on the cloud side, and TinyML / Edge-Based AI on the embedded side — I like taking models from research notebooks all the way down to microcontrollers. I'm especially interested in agentic AI systems, fine-grained visual classification, and applying ML to real-world domains like agriculture and healthcare imaging.
 
-- 🔭 Past Experience: Agentic AI products (LangChain, FastAPI) at BootLabs
-- 🌱 Currently exploring: Retrieval-Augmented Generation & multi-agent orchestration
-- 🎓 Capstone: Edge-based deep learning for fine-grained classification of indigenous Indian bovine breeds
-- 🌍 Currently in France on the ISEP exchange program
-- 💬 Ask me about: CNNs for fine-grained classification, TinyML on microcontrollers, RAG pipelines
+- Past Experience: Agentic AI products (LangChain, FastAPI) at BootLabs
+- Currently exploring: Retrieval-Augmented Generation and multi-agent orchestration
+- Capstone: Edge-based deep learning for fine-grained classification of indigenous Indian bovine breeds
+- Currently in France on the ISEP exchange program
+- Ask me about: CNNs for fine-grained classification, TinyML on microcontrollers, RAG pipelines
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -70,32 +67,32 @@ My work sits at the intersection of **Deep Learning, NLP, and Retrieval-Augmente
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-**[🐂 Edge-Based Fine-Grained Classification of Indigenous Indian Bovine Breeds](https://github.com/Prithvi-2k4/Cattle-Buffalo-Breed-Recognition)**
+**[Edge-Based Fine-Grained Classification of Indigenous Indian Bovine Breeds](https://github.com/Prithvi-2k4/Cattle-Buffalo-Breed-Recognition)**
 B.Tech Capstone. An image-based CNN system that classifies Indian cattle and buffalo breeds to support sustainable agriculture (SDG 2). Tackles fine-grained visual differences between visually similar indigenous breeds, optimized for deployment on constrained hardware.
 `Python` `TensorFlow/Keras` `CNN` `OpenCV`
 
-**[🪄 Magic Wand — TinyML Gesture Recognition](https://github.com/Prithvi-2k4/magic-wand-tinyml)**
-A gesture-recognition system using IMU sensor data and a quantized neural network running entirely on a microcontroller. Demonstrates real-time inference under tight memory and power constraints — no cloud dependency.
+**[Magic Wand — TinyML Gesture Recognition](https://github.com/Prithvi-2k4/magic-wand-tinyml)**
+A gesture-recognition system using IMU sensor data and a quantized neural network running entirely on a microcontroller. Demonstrates real-time inference under tight memory and power constraints, with no cloud dependency.
 `TinyML` `C/C++` `IMU Sensors` `Embedded ML`
 
-**[🔬 3D Reconstruction of Pores in the Lamina Cribrosa](https://github.com/Prithvi-2k4/lamina-cribrosa-oct)**
+**[3D Reconstruction of Pores in the Lamina Cribrosa](https://github.com/Prithvi-2k4/lamina-cribrosa-oct)**
 A deep-learning pipeline that reconstructs 3D pore structures of the lamina cribrosa from OCT (Optical Coherence Tomography) medical images, supporting glaucoma-related research.
 `Python` `Deep Learning` `Medical Imaging` `3D Reconstruction`
 
-**[✈️ Travel Pi — Smart Travel Companion](https://github.com/Prithvi-2k4/travel-pi)**
+**[Travel Pi — Smart Travel Companion](https://github.com/Prithvi-2k4/travel-pi)**
 A Raspberry Pi-driven smart travel web application, combining an embedded backend with a lightweight web interface for on-the-go travel assistance.
 `Raspberry Pi` `Python` `HTML` `IoT`
 
-> More projects — including NLP and full-stack work — are pinned below and on my [repositories tab](https://github.com/Prithvi-2k4?tab=repositories).
+> More projects, including NLP and full-stack work, are pinned below and on my [repositories tab](https://github.com/Prithvi-2k4?tab=repositories).
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithvi-2k4&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prithvi-2k4&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithvi-2k4&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
@@ -105,11 +102,11 @@ A Raspberry Pi-driven smart travel web application, combining an embedded backen
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prithvi-ai/">LinkedIn</a> ·
-  <a href="mailto:your.mprithvikrish@gmail.com">Email</a>
+  <a href="mailto:mprithvikrish@gmail.com">Email</a>
 </p>
 
 <p align="center"><i>Open to internship/full-time opportunities in Applied ML, Deep Learning, and AI Engineering.</i></p>
