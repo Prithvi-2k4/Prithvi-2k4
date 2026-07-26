@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prithvi</h1>
-<h3 align="center">AI/ML Engineer in Training | Applied Deep Learning & Edge AI | ISEP France Exchange Student</h3>
+<h3 align="center">Building AI for real-world applications</h3>
 
 ---
 
@@ -9,11 +9,10 @@ I'm a Computer Engineering student specializing in Artificial Intelligence & Mac
 
 My interests include Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI, with a focus on taking models from research to production.
 
-- AI Intern at **Crompton Greaves Consumer Electricals**
-- Capstone: **Edge AI for Fine-Grained Classification of Indigenous Indian Bovine Breeds**
-- Currently exploring **Agentic AI, Multi-Agent Systems, Vision-Language Models, and TinyML**
-- Open to collaborations in **Computer Vision, RAG, and Edge AI**
-- Ask me about **Deep Learning, Computer Vision, RAG, FastAPI, LangChain, and TinyML**
+AI Intern @ Crompton Greaves
+Building Edge AI for Indigenous Bovine Breed Classification
+Exploring Agentic AI, TinyML & Vision-Language Models
+Gym • Motorcycling • Travel • Fishkeeping
 
 ---
 
