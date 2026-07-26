@@ -1,18 +1,11 @@
-<h1 align="center">Hi, I'm Prithvi</h1>
-<h3 align="center">Building AI for real-world applications</h3>
+<h1 align="center">Welcome to my Hub</h1>
+<h2 align="center">AI Intern @ Crompton Greaves • Applied AI • Computer Vision • Edge AI</h2>
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bengaluru, passionate about building AI systems that solve real-world problems.
-
-My interests include Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI, with a focus on taking models from research to production.
-
-AI Intern @ Crompton Greaves
-Building Edge AI for Indigenous Bovine Breed Classification
-Exploring Agentic AI, TinyML & Vision-Language Models
-Gym • Motorcycling • Travel • Fishkeeping
+I'm a Computer Engineering student specializing in Artificial Intelligence & Machine Learning at Presidency University, Bengaluru. My interests span Deep Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Agentic AI, and Edge AI.
 
 ---
 
