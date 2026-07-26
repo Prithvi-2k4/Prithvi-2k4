@@ -89,11 +89,4 @@ A Raspberry Pi-driven smart travel web application, combining an embedded backen
 
 ---
 
-### Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prithvi-ai/">LinkedIn</a> ·
-  <a href="mailto:mprithvikrish@gmail.com">Email</a>
-</p>
-
 <p align="center"><i>Open to internship/full-time opportunities in Applied ML, Deep Learning, and AI Engineering.</i></p>
