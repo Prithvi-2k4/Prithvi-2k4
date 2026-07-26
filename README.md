@@ -89,19 +89,6 @@ A Raspberry Pi-driven smart travel web application, combining an embedded backen
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithvi-2k4&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithvi-2k4&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-2k4&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### Get in Touch
 
 <p align="center">
